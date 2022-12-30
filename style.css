@@ -1,0 +1,14 @@
+h1 {
+    color: white;
+    background-color: black;
+}
+
+h2 {
+    color: black;
+    background-color: yellow;
+}
+
+.list {
+    background-color: rgb(228,18,144);
+    color: rgb(210,230,29);
+}
